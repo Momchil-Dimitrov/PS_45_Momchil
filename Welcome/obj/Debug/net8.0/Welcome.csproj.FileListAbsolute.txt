@@ -1,0 +1,15 @@
+D:\c#\PS_45_Momchil\Welcome\obj\Debug\net8.0\Welcome.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\PS_45_Momchil\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfoInputs.cache
+D:\c#\PS_45_Momchil\Welcome\obj\Debug\net8.0\Welcome.AssemblyInfo.cs
+D:\c#\PS_45_Momchil\Welcome\obj\Debug\net8.0\Welcome.csproj.CoreCompileInputs.cache
+D:\c#\PS_45_Momchil\Welcome\obj\Debug\net8.0\Welcome.sourcelink.json
+D:\c#\PS_45_Momchil\Welcome\bin\Debug\net8.0\Welcome.exe
+D:\c#\PS_45_Momchil\Welcome\bin\Debug\net8.0\Welcome.deps.json
+D:\c#\PS_45_Momchil\Welcome\bin\Debug\net8.0\Welcome.runtimeconfig.json
+D:\c#\PS_45_Momchil\Welcome\bin\Debug\net8.0\Welcome.dll
+D:\c#\PS_45_Momchil\Welcome\bin\Debug\net8.0\Welcome.pdb
+D:\c#\PS_45_Momchil\Welcome\obj\Debug\net8.0\Welcome.dll
+D:\c#\PS_45_Momchil\Welcome\obj\Debug\net8.0\refint\Welcome.dll
+D:\c#\PS_45_Momchil\Welcome\obj\Debug\net8.0\Welcome.pdb
+D:\c#\PS_45_Momchil\Welcome\obj\Debug\net8.0\Welcome.genruntimeconfig.cache
+D:\c#\PS_45_Momchil\Welcome\obj\Debug\net8.0\ref\Welcome.dll
